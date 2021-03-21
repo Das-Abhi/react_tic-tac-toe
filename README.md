@@ -1,2 +1,2 @@
 # react_tic-tac-toe
-React Begginer Tutorial: Tic Tac Toe
+React Beginner Tutorial: Tic Tac Toe
